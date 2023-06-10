@@ -1,0 +1,152 @@
+/* .signup-container {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .signup-container h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  input[type='password'] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  } */
+
+
+
+
+  .container {
+    background-image:url(../pictures/Premium\ Photo\ _\ 3d\ online\ express\ delivery\ scooter\ service\ concept.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .border {
+    border: 1px solid #ccc;
+  }
+  
+  .rounded {
+    border-radius: 0.25rem;
+  }
+  
+  .p-4 {
+    padding: 1rem;
+  }
+  
+  .mt-2 {
+    margin-top: 0.5rem;
+  }
+  
+  .shadow {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .m-4 {
+    margin: 1rem;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1rem;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ccc;
+  }
+  
+  .btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  .btn-outline-primary {
+    color: #fff;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #0069d9;
+  }
+  
+  .btn-outline-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border: 1px solid #dc3545;
+  }
+  
+  .btn-outline-danger:hover {
+    background-color: #c82333;
+  }
+  
+  .m-2 {
+    margin: 0.5rem;
+  }
+  
+  a {
+    display: block;
+    text-align: center;
+    margin-top: 1rem;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+
+  
+
+
+
+
+
+
+
+
+
+ 
+  
+  /* button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  } */

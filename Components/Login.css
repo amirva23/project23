@@ -1,0 +1,91 @@
+
+body{scroll-snap-type: mandatory;
+  display: flex;
+}
+
+
+.page{
+    background-image: url(../pictures/Premium\ Photo\ _\ 3d\ online\ express\ delivery\ scooter\ service\ concept.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+  }
+  h1{
+  text-align:center;
+  font-size: 40px;
+  -webkit-text-fill-color: black;
+  }
+  .login-container {
+  align-items: center;
+  margin-top: 50%;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 150px;
+    border-radius: 5px;
+  }
+  
+  .login-container h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    font-size: 25px;
+    font-weight: 500;
+    
+    -webkit-text-fill-color: black;
+    margin-bottom: 5px;
+  }
+  
+  input[type='number']
+  {
+    width: 100%;
+    padding: 13px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  input[type='text'],
+  input[type='password']{ 
+    width: 100%;
+    padding: 13px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .error-message {
+    color:black;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  .log {
+    display: block;
+    width: 110%;
+    padding: 10px;
+    background-color: royalblue;
+    color:black;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  } 
+  .sign{
+        text-decoration: underline;
+        border: none;
+        background-color: transparent;
+        -webkit-text-fill-color:blue;
+        font-weight: 700;
+        font-size: medium;
+        cursor: pointer;
+  }
+  p
+  {
+    text-align: center;
+    -webkit-text-fill-color: black;
+    font-weight: 700;
+  }
